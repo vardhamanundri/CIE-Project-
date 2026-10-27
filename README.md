@@ -1,4 +1,4 @@
-# PostLens MVP
+# PostLens V1
 
 PostLens is a working prototype of an AI-assisted post-production review tool.
 
